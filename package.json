@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/hls.js": "^0.12.6",
+    "@types/node": "^13.13.4",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "hls.js": "^0.13.2"
+  }
+}
